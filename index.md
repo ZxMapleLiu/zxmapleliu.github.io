@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Liu Zexin
 
-You can use the [editor on GitHub](https://github.com/ZxMapleLiu/zxmapleliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Gameplay Programmer @ Netease Games, good at games and bad at programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My works
+### Professional
 
-### Markdown
+Minigame | Lead Programmer - 07.2021-09.2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_I wish I could post screenshots here to show you my dynamic shader graph and graphics tunning_
 
-```markdown
-Syntax highlighted code block
+Canceled Project | Programmer - 10.2021-11.2021
 
-# Header 1
-## Header 2
-### Header 3
+_I am so sad that this game would never get publication permission_
 
-- Bulleted
-- List
+NDA Project - 12.2021-present
 
-1. Numbered
-2. List
+_Can't tell you anything until it's announced_
 
-**Bold** and _Italic_ and `Code` text
+### School projects
 
-[Link](url) and ![Image](src)
-```
+FPS Minigame | Lead Programmer - 06.2020
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[You can download the game here]()
 
-### Jekyll Themes
+_can't believe this **** got me an internship offer_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZxMapleLiu/zxmapleliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Screenshots if you really don't wanna play this](/screenshot1.jpg)
+
+I am just responsible for the [gameplay codes](https://github.com/ZxMapleLiu/minigamefps) (everything expect AI behavior trees and UI) and the animation of guns (still sh*tty)... Yes the model of guns are just from Call of Duty... We don't have any artists in the team, and everyone was at home due to COVID-19.No one had taught any gameplay coding in the university before. That's part of the reason why I made the [code notes from CS193u (in Chinese) before the course video released](https://www.zhihu.com/column/c_1402713024562696192) after my graduation.
+
+I have to delete ~50 light sources and close 2/3 of the rain emiters to make it runnable to post it here.
+
+Maps are not created by me, and I know they're from other public scene, the level teammate just put some random enemy in them...
+
+We are asked to finish 3 different course projects in 4 weeks, so I didn't event play the maps until the last 4 days. I have so many regrets on this project.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [Email me](maple991@qq.com)
