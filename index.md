@@ -7,7 +7,7 @@ Gameplay Programmer @ Netease Games, good at games and bad at programming.
 
 Minigame | Lead Programmer - 07.2021-09.2021
 
-_I wish I could post screenshots here to show you my dynamic shader graph and graphics tunning_
+You can check the public trailer [here](https://game.academy.163.com/fresh/2021/12/2021123101.html) (2:46-2:51).
 
 Canceled Project | Programmer - 10.2021-11.2021
 
